@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26403.7
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "efcorelibrary net standard 1.4", "efcorelibrary\efcorelibrary net standard 1.4.csproj", "{DB1407E7-E6B0-47A3-AE16-FD4517F01D73}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ASPNETCore full NET 4.6.1", "ASPNETCore full NET\ASPNETCore full NET 4.6.1.csproj", "{65B42772-4699-4611-99BD-1A7A1134B32F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DB1407E7-E6B0-47A3-AE16-FD4517F01D73}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB1407E7-E6B0-47A3-AE16-FD4517F01D73}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB1407E7-E6B0-47A3-AE16-FD4517F01D73}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB1407E7-E6B0-47A3-AE16-FD4517F01D73}.Release|Any CPU.Build.0 = Release|Any CPU
+		{65B42772-4699-4611-99BD-1A7A1134B32F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{65B42772-4699-4611-99BD-1A7A1134B32F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{65B42772-4699-4611-99BD-1A7A1134B32F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{65B42772-4699-4611-99BD-1A7A1134B32F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
